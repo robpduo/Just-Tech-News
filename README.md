@@ -1,5 +1,5 @@
 # Just-Tech-News
 
-npm init -y
-npm install sequelize express mysql2
-npm install dotenv
+npm init -y </br>
+npm install sequelize express mysql2 </br>
+npm install dotenv </br>
