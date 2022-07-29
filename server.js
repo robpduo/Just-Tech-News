@@ -15,3 +15,5 @@ app.use(routes);
 sequelize.sync({ force: false }).then(() => {
     app.listen(PORT, () => console.log('Now listening'));
 });
+
+https://courses.bootcampspot.com/courses/2193/pages/13-dot-3-4-create-the-post-model?module_item_id=568457
