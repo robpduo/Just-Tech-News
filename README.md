@@ -10,6 +10,20 @@ Just Tech News—a tech news website where users can post, upvote, and comment o
 - Create and implement Sequelize associations to join tables.
 - Use environment variables to protect sensitive data, such as your MySQL username and password.
 
+## Technology
+Javascript - scripting language
+Node.js - runtime environment
+    Express Module
+    Sequelize Module
+    DotEnv Module
+    BCrypt Module
+MySql 2 - relational database
+Heroku - app deployment
+  JawsDB MySQL - Heroku add on
+Insomnia - Endpoint testing software
+
+
+## Usages
 npm init -y
 npm install sequelize express mysql2
 npm install dotenv
