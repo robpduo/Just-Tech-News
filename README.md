@@ -26,9 +26,16 @@ Heroku - app deployment</br>
   
 Insomnia - Endpoint testing software</br>
 
+## To Run
+- Clone Github repository
+- On the root directory, enter `npm install` in the terminal to download all the dependencies
+- Enter `npm start` in the root terminal to boot up the server
+- Use a third party software (Postman, Insomnia) to test out the end points
 
 ## Usages
-npm init -y
-npm install sequelize express mysql2
-npm install dotenv
-npm install bcrypt
+Create a user </br>
+![image](https://user-images.githubusercontent.com/101683611/182640400-ffa24dca-33b1-48fc-8373-0fdbf7d06798.png)
+
+Login
+![image](https://user-images.githubusercontent.com/101683611/182640587-dd09297b-3f02-4068-aa12-d1b1790134b9.png)
+
