@@ -11,16 +11,16 @@ Just Tech News—a tech news website where users can post, upvote, and comment o
 - Use environment variables to protect sensitive data, such as your MySQL username and password.
 
 ## Technology
-Javascript - scripting language
-Node.js - runtime environment
-    Express Module
-    Sequelize Module
-    DotEnv Module
-    BCrypt Module
-MySql 2 - relational database
-Heroku - app deployment
-  JawsDB MySQL - Heroku add on
-Insomnia - Endpoint testing software
+Javascript - scripting language </br>
+Node.js - runtime environment</br>
+    Express Module</br>
+    Sequelize Module</br>
+    DotEnv Module</br>
+    BCrypt Module</br>
+MySql 2 - relational database</br>
+Heroku - app deployment</br>
+  JawsDB MySQL - Heroku add on</br>
+Insomnia - Endpoint testing software</br>
 
 
 ## Usages
