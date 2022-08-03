@@ -12,14 +12,18 @@ Just Tech News—a tech news website where users can post, upvote, and comment o
 
 ## Technology
 Javascript - scripting language </br>
+
 Node.js - runtime environment</br>
-    Express Module</br>
-    Sequelize Module</br>
-    DotEnv Module</br>
-    BCrypt Module</br>
+- Express Module</br>
+- Sequelize Module</br>
+- DotEnv Module</br>
+- BCrypt Module</br>
+    
 MySql 2 - relational database</br>
+
 Heroku - app deployment</br>
-  JawsDB MySQL - Heroku add on</br>
+- JawsDB MySQL - Heroku add on</br>
+  
 Insomnia - Endpoint testing software</br>
 
 
