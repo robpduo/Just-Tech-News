@@ -33,9 +33,12 @@ Insomnia - Endpoint testing software</br>
 - Use a third party software (Postman, Insomnia) to test out the end points
 
 ## Usages
-Create a user </br>
+Create a user
 ![image](https://user-images.githubusercontent.com/101683611/182640400-ffa24dca-33b1-48fc-8373-0fdbf7d06798.png)
 
 Login
 ![image](https://user-images.githubusercontent.com/101683611/182640587-dd09297b-3f02-4068-aa12-d1b1790134b9.png)
+
+Create a post
+![image](https://user-images.githubusercontent.com/101683611/182640710-4c660966-8fb8-40a3-9eb7-cdb8fcceaf7f.png)
 
