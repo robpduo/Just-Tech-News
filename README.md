@@ -32,6 +32,10 @@ Insomnia - Endpoint testing software</br>
 - Enter `npm start` in the root terminal to boot up the server
 - Use a third party software (Postman, Insomnia) to test out the end points
 
+OR
+- Use deployed application on Heroku: https://cryptic-atoll-40348.herokuapp.com/
+- Use a third party software (Postman, Insomnia) to test out the end points
+
 ## Usages
 Create a user
 ![image](https://user-images.githubusercontent.com/101683611/182640400-ffa24dca-33b1-48fc-8373-0fdbf7d06798.png)
