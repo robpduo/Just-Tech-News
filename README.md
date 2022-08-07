@@ -30,8 +30,9 @@ Insomnia - Endpoint testing software</br>
 ## Usages
 
 ## Install Dependecies
-npm init -y
-npm install sequelize express mysql2
-npm install dotenv
-npm install bcrypt
-npm install express-session connect-session-sequelize
+
+npm init -y </br>
+npm install sequelize express mysql2 </br>
+npm install dotenv </br>
+npm install bcrypt </br>
+npm install express-session connect-session-sequelize <br/>
