@@ -28,6 +28,9 @@ Insomnia - Endpoint testing software</br>
 
 
 ## Usages
+Dashboard - view all posts
+![image](https://user-images.githubusercontent.com/101683611/183310260-89e173cc-eeb5-4317-b926-899c93b2197b.png)
+
 Create a Post
 ![image](https://user-images.githubusercontent.com/101683611/183310233-39f5df4b-035b-491c-9f26-7902534d62e0.png)
 
