@@ -19,6 +19,8 @@ Node.js - runtime environment</br>
 - DotEnv Module</br>
 - BCrypt Module</br>
 - HandleBars</br>
+- Express Sessions</br>
+- Connect Session Sequelize
     
 MySql 2 - relational database</br>
 
