@@ -28,6 +28,8 @@ Insomnia - Endpoint testing software</br>
 
 
 ## Usages
+Create a Post
+![image](https://user-images.githubusercontent.com/101683611/183310233-39f5df4b-035b-491c-9f26-7902534d62e0.png)
 
 ## Install Dependecies
 
