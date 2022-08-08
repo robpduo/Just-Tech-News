@@ -1,5 +1,8 @@
 # Just-Tech-News
 
+## Deployed Application
+https://polar-taiga-16000.herokuapp.com/ </br>
+
 ## Description
 Just Tech News—a tech news website where users can post, upvote, and comment on links to news articles. Just Tech News uses Sequelize, an object-relational mapping (ORM) library, to simplify MySQL queries, add password hashing so that users can create secure passwords, and the application is connected to JawsDB, a MySQL add-on for Heroku.
 
