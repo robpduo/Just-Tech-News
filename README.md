@@ -29,6 +29,8 @@ Heroku - app deployment</br>
   
 Insomnia - Endpoint testing software</br>
 
+Jest - unit testing </br>
+
 
 ## Usages
 Login / Sign-up Page
@@ -47,3 +49,4 @@ npm install sequelize express mysql2 </br>
 npm install dotenv </br>
 npm install bcrypt </br>
 npm install express-session connect-session-sequelize <br/>
+npm install jest -D
